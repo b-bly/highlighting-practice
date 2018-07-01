@@ -1,0 +1,10 @@
+
+	.marker-active	{ border-bottom: 1px solid #bdbdbd; }	
+	
+	#highlight-div {
+		position: absolute;
+		width: min-content;
+		top:0;
+		left: 0;
+		border: 2px solid blue;
+	}
